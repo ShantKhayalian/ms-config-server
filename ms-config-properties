@@ -1,8 +1,0 @@
-ms-config-properties	
-ms-user
-	default
-		ms-user.yml
-dev
-		ms-user.yml
-prod
-		Ms-user.yml
